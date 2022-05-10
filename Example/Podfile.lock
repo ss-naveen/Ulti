@@ -1,0 +1,16 @@
+PODS:
+  - Ulti (0.1.0)
+
+DEPENDENCIES:
+  - Ulti (from `../`)
+
+EXTERNAL SOURCES:
+  Ulti:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Ulti: 81b99ae822e2bef6658a9689aeeb84e5b02b1c1a
+
+PODFILE CHECKSUM: e3b332b7d8b2df909638bd32bc4e389f43a6d111
+
+COCOAPODS: 1.11.3

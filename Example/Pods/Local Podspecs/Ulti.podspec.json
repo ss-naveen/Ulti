@@ -1,0 +1,22 @@
+{
+  "name": "Ulti",
+  "version": "0.1.0",
+  "summary": "A short description of Ulti.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ss-naveen/Ulti",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ss-naveen": "nsingisetty@prokarma.com"
+  },
+  "source": {
+    "git": "https://github.com/ss-naveen/Ulti.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "Ulti/Classes/**/*"
+}
